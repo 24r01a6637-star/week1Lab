@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>ordered list</title>
+<script>
+	function showMessage(){
+		console.log("you clicked me!");
+	}
+</script>
+</head>
+<body>
+<p style="text-allign:center">Animals</p>
+<ul>
+<li>tiger</li>
+<li>lion</li>
+</ul>
+<ol>
+<li>A</li>
+<li>D</li>
+<li>C</li>
+<li>A</li>
+</ol>
+<button onclick="showMessage()">Click me</button>
+<img src="C:\Users\student\Desktop\66y9\cmrit.webp" style = "width:300,height:100">
+</body>
+</html>
